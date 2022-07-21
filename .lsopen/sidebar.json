@@ -121,7 +121,7 @@
   {
     "type": "category",
     "label": "构建与配置系统",
-    "items": ["build/index"],
+    "items": ["build/index", "build/build_system"],
     "collapsed": true
   },
   {
